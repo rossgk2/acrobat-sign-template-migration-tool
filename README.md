@@ -1,4 +1,4 @@
-# sign-doc-reuploader
+# acrobat-sign-template-migration-tool
 
 This is a "migration tool" that copies selected documents between Adobe Sign accounts. Both the "source" and "destination" accounts may either be a commercial Adobe Sign account or a Adobe Sign for Gov account. Both accounts may either be hosted on any shard. The most common use case is the copying of *all* documents over from a commercial account to a government account.
 
